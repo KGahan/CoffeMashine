@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/BkygrUhsDQQlnbCzxmzNtY3lGrYVK7EzF8Q2MsCfVy4BooGVqIBq9L2oz/QVmNi13YWLHkpo8QkZ4pTzVSXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimga\\Dokumente\\Schule Htl Dornbirn\\3. Klasse\\SWP\\C#\\Übungen\\Kaffee\\Kaffee\\Kaffee\\Coffee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kimga\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kimga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kimga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kimga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kimga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
